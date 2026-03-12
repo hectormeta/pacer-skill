@@ -29,12 +29,19 @@ Pacer 是一个四阶段的职业陪跑系统，每一步都有可视化图表�
 Install this skill: https://github.com/hectormeta/pacer-skill
 ```
 
-**方式二：ClawHub CLI（推荐，避免匿名限速）**
+**方式二：一句话安装（需已登录 ClawHub）**
+```bash
+npx clawhub@latest install pacer
+```
+
+**方式三：全局安装 CLI（推荐，避免限速）**
 ```bash
 npm install -g clawhub
 clawhub login
 clawhub install pacer
 ```
+
+> 注：`npx` 方式以匿名身份请求，偶发限速报错时请改用方式三。
 
 ---
 

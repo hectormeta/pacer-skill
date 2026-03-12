@@ -34,9 +34,12 @@ requires:
 ## 快速安装
 
 ```bash
-npm install -g clawhub
-clawhub login
-clawhub install pacer
+npx clawhub@latest install pacer
+```
+
+或全局安装后运行（推荐，避免限速）：
+```bash
+npm install -g clawhub && clawhub login && clawhub install pacer
 ```
 
 或直接告诉你的 OpenClaw 智能体：
