@@ -14,7 +14,7 @@
 
 **方式一：直接告诉你的OpenClaw智能体**
 ```
-Install this skill: https://github.com/opcbuilder/pacer-skill
+Install this skill: https://github.com/hectormeta/pacer-skill
 ```
 
 **方式二：ClawHub命令行**

@@ -3,7 +3,7 @@ name: pacer
 version: 0.1.0
 description: Your AI career companion. Helps you scan your current situation,
   map possible paths, simulate futures, and track progress week by week.
-author: opcbuilder
+author: hectormeta
 tags: [career, planning, productivity, opc, startup, life-design]
 license: MIT
 requires:
