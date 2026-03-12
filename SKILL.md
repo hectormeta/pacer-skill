@@ -1,6 +1,6 @@
 ---
 name: pacer
-version: 0.1.1
+version: 0.1.2
 description: >
   Your AI career companion. Scan your situation, map possible paths, simulate
   futures, and track progress week by week — with interactive charts.
