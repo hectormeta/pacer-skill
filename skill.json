@@ -5,6 +5,7 @@
   "author": "hectormeta",
   "homepage": "https://github.com/hectormeta/pacer-skill",
   "license": "MIT",
+  "acceptLicenseTerms": true,
   "tags": ["career", "planning", "opc", "productivity"],
   "entry": "SKILL.md",
   "capabilities": {
